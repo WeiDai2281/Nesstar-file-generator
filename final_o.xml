@@ -1,0 +1,1214 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<codeBook version="1.2.2" ID="DOI-pending" xml-lang="en" xmlns="http://www.icpsr.umich.edu/DDI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.icpsr.umich.edu/DDI http://www.icpsr.umich.edu/DDI/Version1-2-2.xsd">
+  <docDscr>
+    <citation>
+      <titlStmt>
+        <titl>
+          XX, Millennium Villages, Adult Survey - Y3, 2009
+        </titl>
+        <IDNo>
+          XXMV_Y3_ADU_V1
+        </IDNo>
+      </titlStmt>
+      <rspStmt>
+        <AuthEnty affiliation="Earth Institute at Columbia University">
+          CIESIN
+        </AuthEnty>
+      </rspStmt>
+      <prodStmt>
+        <producer abbr="MVP" affiliation="Earth Institute at Columbia University" role="Compilation of Metadata">
+          Millennium Villages Project
+        </producer>
+        <software version="4.0.9" date="2013-04-23">
+          Nesstar Publisher
+        </software>
+      </prodStmt>
+      <verStmt>
+        <version>
+          Version 1.0 (February 1, 2012). This version is the first version of the metadata that was created.
+        </version>
+      </verStmt>
+    </citation>
+  </docDscr>
+  <stdyDscr>
+    <citation>
+      <titlStmt>
+        <titl>
+          XX, Millennium Villages, Adult Survey - Y3, 2009
+        </titl>
+        <altTitl>
+          XXMV_Y3_ADU
+        </altTitl>
+        <IDNo>
+          DOI-pending
+        </IDNo>
+      </titlStmt>
+      <rspStmt>
+        <AuthEnty affiliation="Columbia University">
+          Millennium Villages Project
+        </AuthEnty>
+      </rspStmt>
+      <prodStmt>
+        <producer affiliation="Monitoring &amp; Evaluation, New York, NY" role="Technical assistance">
+          P M Pronyk
+        </producer>
+        <producer affiliation="Monitoring &amp; Evaluation, New York, NY" role="Technical assistance">
+          C A Palm
+        </producer>
+        <producer affiliation="Monitoring &amp; Evaluation, New York, NY" role="Technical assistance">
+          M Muniz
+        </producer>
+        <producer affiliation="Monitoring &amp; Evaluation, New York, NY" role="Technical assistance">
+          B Nemser
+        </producer>
+        <producer affiliation="Monitoring &amp; Evaluation, New York, NY" role="Technical assistance">
+          M A Somers
+        </producer>
+        <producer affiliation="Monitoring &amp; Evaluation, New York, NY" role="Technical assistance">
+          U K Huynh
+        </producer>
+        <producer affiliation="Monitoring &amp; Evaluation, New York, NY" role="Technical assistance">
+          X An
+        </producer>
+        <producer affiliation="Monitoring &amp; Evaluation, New York, NY" role="Technical assistance">
+          S Kaschula
+        </producer>
+        <producer affiliation="Monitoring &amp; Evaluation, New York, NY" role="Technical assistance">
+          E Quintana
+        </producer>
+        <producer affiliation="MDG Center West &amp; Cental Africa, Bamako, Mali" role="Technical assistance">
+          A Niang
+        </producer>
+        <producer affiliation="MDG Center East and Southern Africa, Nairobi, Kenya" role="Technical assistance">
+          B Begashaw
+        </producer>
+        <copyright>
+          © 2011,The Trustees Columbia University
+        </copyright>
+        <software version="4.0.9" date="2013-04-23">
+          Nesstar Publisher
+        </software>
+        <fundAg>
+          UN Human Security Trust Fund
+        </fundAg>
+        <fundAg>
+          The Lenfest Foundation
+        </fundAg>
+        <fundAg>
+          Bill &amp; Melinda Gates Foundation
+        </fundAg>
+        <fundAg>
+          Becton Dickinson
+        </fundAg>
+      </prodStmt>
+      <distStmt>
+        <contact affiliation="Earth Institute, Columbia University" email="mvpinfo@ciesin.columbia.edu">
+          MVP Info
+        </contact>
+      </distStmt>
+      <serStmt>
+        <serName>
+          Other Household Health Survey [hh/hea]
+        </serName>
+        <serInfo>
+          <![CDATA[Year 3 Adult Surveys are the second of five rounds of Adult survey data collection for the Millennium Villages Project (MVP). Data is collected in the first year of the project, before interventions (around 2005-2007), in the third year of the project (around 2008-2010), in the fifth year of the project (2010-2012), in the seventh  year of the project (2012-2014), and in the ninth year (2014-2016) of the project. The surveys are designed to monitor progress towards various Millennium Development Goals (MDGs) indicators at the sites.Year 3 Household Surveys are the second of five rounds of household survey data collection for the Millennium Villages Project (MVP). Data is collected in the first year of the project, before interventions (around 2005-2007), in the third year of the project (around 2008-2010), in the fifth year of the project (2010-2012), in the seventh  year of the project (2012-2014), and in the ninth year (2014-2016) of the project. The surveys are designed to monitor progress towards various Millennium Development Goals (MDGs) indicators at the sites.]]>
+        </serInfo>
+      </serStmt>
+    </citation>
+    <stdyInfo>
+      <subject>
+        <topcClas vocab="MVP Classifications" vocabURI="http://www.nesstar.org/rdf/common">
+          Quantitative
+        </topcClas>
+        <topcClas vocab="MVP Classifications" vocabURI="http://www.nesstar.org/rdf/common">
+          Adult survey
+        </topcClas>
+      </subject>
+      <abstract>
+        <![CDATA[The Adult Survey is administered primarily to 15-49 year old adults, and explores changes the health status of men, women and children living in the Millennium Villages. In addition, the Adult Survey examines wider issues of relevance to this group - including empowerment (for women), literacy, as well as 'social capital and social networks'.
+
+When the Adult Survey is administered to either male or female respondents, a common set of modules are used that explore health seeking behaviour, TB, HIV, sexual behaviour, smoking, alcohol, mental health, literacy, and social capital.
+
+When the Adult Survey is administered to a female respondent, a longer version is used that examines issues such as contraception, birth history, antenatal/prenatal care, the health of under 5's and domestic violence.]]>
+      </abstract>
+      <sumDscr>
+        <collDate date="2009-07-06" event="start"/>
+        <collDate date="2009-10-15" event="end"/>
+        <nation abbr="XX">
+          Country XX
+        </nation>
+        <geogCover>
+          XX is located in YY, near ZZ. XX has a population of XYZ people.
+        </geogCover>
+        <anlyUnit>
+          Individuals
+        </anlyUnit>
+        <universe>
+          The survey covered all males and females aged 15-49 years in MV1 research households.
+        </universe>
+        <dataKind>
+          Sample survey data [ssd]
+        </dataKind>
+      </sumDscr>
+      <notes>
+        <![CDATA[The scope of Adult Survey includes:
+
+- Female: demographic characteristic, women's reproductive health, contraception, birth history, pregnancy, post natal care and breasting feeding, general health seeking behaviour, tuberculosis, HIV / AIDS knowledge, sexual behaviour, smoking, alcohol, mental health, functional literacy, cell phone use, local organizations, coping mechanisms, trust, collective action, extension training, empowerment, domestic violence
+
+- Children of females: diarrhoea, fever and other illnesses in children under 5, vaccinations in children under 5
+
+- Male:  demographic characteristic, general health seeking behaviour, tuberculosis, HIV / AIDS knowledge, sexual behaviour, smoking, alcohol, mental health, functional literacy, cell phone use, local organizations, coping mechanisms, trust, collective action, extension training]]>
+      </notes>
+    </stdyInfo>
+    <method>
+      <dataColl>
+        <dataCollector abbr="MVP_XX_Y3" affiliation="Columbia University">
+          MVP XX site, Year 3 Enumeration Team
+        </dataCollector>
+        <sampProc>
+          <![CDATA[At baseline, a stratified random sample of approximately 300 households was selected from approximately 1,000 households within the Millennium Research Villages through proportional allocation.  Stratification was based on an asset index, geographic sublocation, and gender of head of household.  All adults, aged 15-49 years, in these research households are sampled for the ADU survey.]]>
+        </sampProc>
+        <collMode>
+          Face-to-face [f2f]
+        </collMode>
+        <resInstru>
+          <![CDATA[The Adult Survey was administered to all 15-49 year olds in the research households. There are two versions of this questionnaire--one for males and a longer one for females. The Adult Survey asks questions about general health seeking behavior, TB, HIV/AIDS knowledge, sexual behavior, smoking and alcohol use, mental health, literacy, cell phone use, local organizations, coping mechanisms, trust, and collective action.  The female survey additionally includes  information on contraception, birth history, pregnancy and postnatal care, diarrhea and fever in children <5, vaccinations, extension training, empowerment, and domestic violence.]]>
+        </resInstru>
+        <sources/>
+        <collSitu>
+          The Adult Survey training took place in early July 2009 for a period of 1 week. During this period, surveys were repeatedly reviewed for consistency and completeness by field supervisors and data entry clerks. The data collection team was comprised of approximately 20 individuals trained in administering the survey.
+        </collSitu>
+        <weight>
+          Weighting coefficients are not available
+        </weight>
+        <cleanOps>
+          <![CDATA[Data editing took place at a number of stages throughout the processing, including:
+a) Field  form checking;
+b) In office during single data entry
+c) In office during double data entry
+d) Missing checking in CSPro;
+e) Range checking in CSPro;
+f) Logic checking in CSPro
+g) Structure checking in CSPro
+h) Secondary editing
+Detailed documentation of the editing of data can be found in the "Data processing guidelines" document provided as an external resource.]]>
+        </cleanOps>
+      </dataColl>
+      <notes>
+        <![CDATA[Data were entered in field offices using CSPro 3.3. All data were double entered in verification mode in CSPro and batch cleaned using CSPro cleaning scripts. Details of data processing steps can be found in project documentation, and  data processing programs in CSPro, that are part of the external resources.
+
+All range checks and skips were controlled by the program and operators could not override these. A large set of consistency checks were also included in the data entry program. Structure and completeness checking ensured that all data had been entered and were structurally sound.
+
+Verification of MDG related  variables and other key metrics (such as date or birth or gender) was performed using independent verification, i.e. double entry of data, with two different individuals performing single and double entry. Comparison of data followed by modification.
+
+After completion of all processing in CSPro, files were backed up before concatenating data together using the CSPro file concatenate utility.
+
+For tabulation and analysis Stata versions 10.0 were used.]]>
+      </notes>
+    </method>
+    <dataAccs>
+      <useStmt>
+        <confDec required="yes">
+          <![CDATA[Data Sets may be used solely for the purposes stated in the Data User's original data request. If the Data User later wishes to use the data for a research project different from the one outlined in the original research proposal, a new proposal must be submitted. 'Different' projects would include those involving significantly different methods, research questions, and integration with other data.
+
+Data Sets may not be used for investigation of specific individuals or organizations. It is understood that some portions of the dataset may be withheld or statistically altered to protect participant confidentiality.
+
+No attempt shall be made to discover the identity of any individual participating in the project. If identities are discovered inadvertently, the identity of any person, household, or institution shall not be disclosed. Users will secure MVP electronic datasets in their possession according to the terms specified in their data management plan, which at a minimum must include the following provisions:
+
+·	Any computer containing MVP data must be password protected, and not left unattended in unprotected mode.
+·	Any copies of the Data Sets stored on a portable medium (CDs, thumb drives, etc.) must be encrypted.
+·	Any copies transmitted by email or ftp must be encrypted.
+·	Copies of the Data Sets must not be stored on a server to which unauthorized users have access.
+·	When encryption is necessary, an approved mode of encryption, e.g. PGP, must be used.
+
+
+To protect the identities of project participants, any results obtained using MVP data must be approved by the MVP Policy Review Committee before dissemination to the public.]]>
+        </confDec>
+        <contact email="mvdatareq@ciesin.columbia.edu ">
+          MV Data Request
+        </contact>
+        <citReq>
+          <![CDATA[Any articles, conference papers, theses, dissertations, reports, books, posters, presentations or other publications using MVP data must comply with recommended citation procedures. Data Sets should be cited as follows:
+The Earth Institute at Columbia University, Millennium Villages Research Project. [Dataset Title]. [Dataset Version] New York, NY: the Earth Institute at Columbia University, [Year of Publication]. The Earth Institute at Columbia University,  [Date dataset was accessed.]]]>
+        </citReq>
+        <conditions>
+          <![CDATA[Millennium Villages Project
+Data Access Policy, Data Access Requirements, and Data Use Agreements
+February 15, 2012
+
+Millennium Villages Project Data Access Policy
+
+This document describes the data access policy for household survey data, process evaluation qualitative data, and economic costing data collected at 14 villages in Africa designated as 'Millennium Villages' by the Millennium Villages Project (MVP).  It applies to household, community and project -level data that are collected in each of the villages (see Appendix 2 for data collected in Year 1) throughout the five-year project.
+MVP classifies the project data covered in this policy into three types:
+Type I- 'Sensitive' microlevel household survey data. 'Sensitive data' deal with topics that may be associated with social stigmas, including STI and HIV/AIDS, physical violence and mental health.
+Type II -'Non-sensitive' microlevel household survey data. 'Non-sensitive data' are not related to topics that may be associated with social stigmas, and include, for example, general demographic information, household assets, crop yields, and malaria prevalence. Village level entomology, water quality and availability, soil property, vegetation, and biodiversity data also fall into this category.  These data include qualitative data that captures the implementation experiences and practices from all MVP interventions-- for example, attitudes and opinions about the efficacy of the school meals program, agronomic field training, etc. These data also include disaggregated budget, expenditure, and in-kind contribution data from all project stakeholders, including regional and national governments; non-governmental organizations; multi-lateral organizations; private donors; beneficiary community members; and the MVP.
+Type III - Aggregated village level indicators and related data, for example, those pertaining to the achievement of the Millennium Development Goals (MDGs).
+The Columbia University IRB protocol includes a list of the Columbia researchers and MVP Project staff who have permission to access the data. Anyone not listed on the existing Columbia MV IRB protocol who wishes to access the data, including Columbia students and individuals not affiliated with Columbia University, must submit a protocol to the Columbia IRB as well as the IRB at their home institution (if applicable). Requests from Columbia faculty and post doctoral fellows to be included on the existing IRB protocol will be considered by the MVP Principal Investigators on a case-by-case basis. The following table lists these four categories of Data Users and the IRB requirements they must meet before obtaining access to Type I and II MVP data.
+
+Data User--IRB requirements:
+MVP investigators and assistants listed on IRB protocol--   Pre-approved by IRB
+Columbia faculty and postdoctoral fellows-- May be included on MVP IRB protocol at the discretion of the Investigators and the IRB
+Columbia students-- Must submit a protocol to Columbia IRB
+Researchers from other institutions --Must submit protocols to both Columbia and home IRBs
+
+MVP DATA ACCESS REQUIREMENTS
+
+After MVP releases official reports for each village, Type I and II data will be available upon request to qualified researchers. (This is expected to be no earlier than one year after each round of data collection). Type III data, including MDG indicators constructed according to official United Nations guidelines, will be published for each village on the project's Web site. Income quartiles within each village are one example of such an MDG indicator. MVP reports will also be made available to the general public.
+
+Request Procedures for Type I and II data
+1. Data Access
+For Type 1 and 2 Data
+
+ All requests for data access must include the following:
+
+a) A list of the requested dataset(s) including titles and/or identification codes
+
+b) Evidence of human subjects training and certification, or equivalent.  Requests will be granted only to individuals who have taken an Institutional Review Board (IRB) human subjects training course and passed the appropriate exam, or who have taken an equivalent substitute training and exam where access to IRB resources is not available.
+
+c) An abstract of 500 words or less summarizing the core hypotheses, methods, and significance of the proposed research.
+
+d) A research proposal of 3 pages or less describing the proposed research, including personnel involved, hypotheses to be tested, methods to be used, time frame of the work, publication plans, and significance of the work.
+
+e) A Data Management Plan, which must describe the procedures that will be followed to safeguard against unauthorized access to the data, and to destroy the data following the completion of the research. Data Users are referred to the companion document to this policy, entitled 'Instructions for Preparing Your MVP Data Management Plan,' which describes the expected components of such a plan and the types of protection expected by the project.
+
+f) If Type 1 data are requested, a statement explaining why these potentially sensitive data are needed for the proposed research.
+
+g) For researchers not included on the MV Institutional Review Board (IRB) approved protocol, IRB Approval for Research on Human Subjects, which provides evidence of an approved human subjects protocol that has been reviewed and issued by the Data User's home IRB and by the IRB at Columbia University for use of each dataset that has been requested.
+
+Individuals requesting data will be notified of the Committee's decision via email. The Committee will approve the request, ask for a revision, or reject it.   Requests for Type 1 data will receive additional levels of review and oversight.
+
+If the request is approved, the Data Users must register online with the MVP and sign the Data Use Agreement. Upon registration and receipt of consent forms, the Data User will be sent a user name and password, granting access to the requested data from a secure portal on the MVP Web site. (This site is distinct from the MV Data Quality Assurance System (MVDQAS) system used to transfer files for quality assurance purposes before direct identifiers are removed from the datasets.)
+
+Denied requests may be appealed upon request.
+
+2. Permission to Publish
+For Type I and II data:
+In order to ensure that confidential data are not disclosed, final drafts of any material intended for public dissemination using MVP data must be approved by MVP. Researchers will be notified of the decision via email.
+
+MVP will only deny requests to publicly disseminate material on the grounds that it could jeopardize the confidentiality of participant data. If a request is denied, MVP may suggest revisions to the documents intended for publication to protect the identities of project participants.
+
+DATA USE AGREEMENTS
+
+Type 1 and 2 Data Use Agreement
+
+Definitions
+"Data Set" -- Digital data and associated metadata derived from survey instruments and baseline measurements taken at each research village, collected by Survey Enumerators, entered by Data Entry clerks and managed by on-site Database Managers and Science Coordinators.  Qualitative data sets are those collected by core M & E project staff at each research village.  Transcription and coding of these data are conducted and managed by M & E qualitative research team. Economic costing data are collected at each research village by core M & E project staff, on-site Sector Coordinators, and on-site Finance Managers. Costing data are managed by the M & E costing team.
+
+"Data User" - Individual to whom access to one or more Data Sets has been granted, including the partners, institutions, students and staff with whom the Data User collaborates, to whom access must also be granted in order to fulfill the Data User's intended use of the Data Set.
+
+Conditions of Use
+1. Acceptable Use
+Data Sets may be used solely for the purposes stated in the Data User's original data request. If the Data User later wishes to use the data for a research project different from the one outlined in the original research proposal, a new proposal must be submitted. 'Different' projects wouldinclude those involving significantly different methods, research questions, and integration with other data.
+
+Data Sets may not be used for investigation of specific individuals or organizations. It is understood that some portions of the dataset may be withheld or statistically altered to protect participant confidentiality.
+
+No attempt shall be made to discover the identity of any individual participating in the project. If identities are discovered inadvertently, the identity of any person, household, or institution shall not be disclosed. Users will secure MVP electronic datasets in their possession according to the terms specified in their data management plan, which at a minimum must include the following provisions:
+
+·	Any computer containing MVP data must be password protected, and not left unattended in unprotected mode.
+·	Any copies of the Data Sets stored on a portable medium (CDs, thumb drives, etc.) must be encrypted.
+·	Any copies transmitted by email or ftp must be encrypted.
+·	Copies of the Data Sets must not be stored on a server to which unauthorized users have access.
+·	When encryption is necessary, an approved mode of encryption, e.g. PGP, must be used.
+
+
+To protect the identities of project participants, any results obtained using MVP data must be approved by the MVP Policy Review Committee before dissemination to the public.
+
+2. Redistribution
+Data Users are not allowed to distribute the data itself, in whole or in part, to any individual or group outside the approved research team. Redistribution of derived data products is also prohibited.
+
+Data Sets will be returned or destroyed within one year after release, unless a request is made to the Policy and Review Committee to extend time of use.
+
+3. Citation
+Any articles, conference papers, theses, dissertations, reports, books, posters, presentations or other publications using MVP data must comply with recommended citation procedures. Data Sets should be cited as follows:
+
+The Earth Institute at Columbia University, Millennium Villages Research Project. [Dataset Title]. [Dataset Version] New York, NY: the Earth Institute at Columbia University, [Year of Publication]. The Earth Institute at Columbia University,  [Date dataset was accessed.]
+
+
+4. Acknowledgement
+Any books, articles, conference papers, theses, dissertations, reports, posters, presentations or other publications that employ data or other resources provided by MVP must acknowledge MVP as the source of the Data Sets on which the material is based.  Data Users are also encouraged to include an acknowledgement section in published documents.
+
+5. Notification
+Authors of publications based on MVP data should send copies of their published works or references to the publications to the MV Director for Research for inclusion in a database of related publications.
+
+6. Collaboration
+MVP data are being released in the spirit of open scientific research and collaboration. Data Users are encouraged to consider discussion, collaboration, and co-authorship with MVP staff.
+
+7.  Qualitative Raw Data Acquisition
+In the event that raw qualitative data are released, data users must review their analysis and interpretation of the material with original data collectors.  No raw data can be published without the permission of the data collectors.
+
+8. No Warranty or Liability
+MVP provides Data Sets without any warranty, either express or implied. MVP shall not be liable for incidental, consequential, or special damages arising out of the use of any Data Sets provided by MVP.
+
+_________________________________________________
+Name (please print)
+
+
+_________________________________________________
+Signature
+
+
+_________________________________________________
+Date]]>
+        </conditions>
+        <disclaimer>
+          MVP provides Data Sets without any warranty, either express or implied. MVP shall not be liable for incidental, consequential, or special damages arising out of the use of any Data Sets provided by MVP.
+        </disclaimer>
+      </useStmt>
+    </dataAccs>
+  </stdyDscr>
+  <fileDscr ID="F1" URI="Example_for_script.Nesstar?Index=0&amp;Name=a_random section name">
+    <fileTxt>
+      <fileName>
+        a_random section name.NSDstat
+      </fileName>
+      <fileCont>
+        <![CDATA[• The file contains data related to the household survey questionnaire
+• The file contains derived data on household income, annualized and  aggregated by category of products and services.
+• Modified and Calculated variables are distinguished by:
+• The file was generated using a Stata program named “cons_aggregate.do” available in the external resources.]]>
+      </fileCont>
+      <dimensns>
+        <caseQnty>
+          0
+        </caseQnty>
+        <varQnty>
+          4
+        </varQnty>
+      </dimensns>
+      <fileType>
+        Nesstar 200801
+      </fileType>
+      <dataChck>
+        <![CDATA[missing check
+range check
+logic check
+structural check]]>
+      </dataChck>
+      <dataMsng>
+        <![CDATA[-8 missing
+-9 notapplicable]]>
+      </dataMsng>
+      <verStmt>
+        <version>
+          <![CDATA[The version description should contain a version number followed by a version label. We recommend that larger series be defined by a number to the left of a decimal and iterations of the same series by a sequential number that identifies the release. The larger series should be described as (0) cleaned dataset with identifiers for internal use by the MVP for IRB pre-authorized use only (i.e. quality assurance team: database managers, enumerators, data entry clerk, NY data team); (1) cleaned dataset, de-identified, for internal use by approved MVP researchers; and (2) cleaned dataset, de-identified, and prepared for external use by approved researchers.
+Examples:
+• v0.1:  Cleaned data with identifiers, first version.
+• v1.2:  Cleaned and de-identified data, second version, for internal use by approved MVP researchers.
+• v2.1: Cleaned and de-identified data, for external use by approved researchers.
+A brief description of the version should follow the numerical identification.]]>
+        </version>
+      </verStmt>
+    </fileTxt>
+  </fileDscr>
+  <fileDscr ID="F2" URI="Example_for_script.Nesstar?Index=1&amp;Name=b_another random section">
+    <fileTxt>
+      <fileName>
+        b_another random section.NSDstat
+      </fileName>
+      <fileCont>
+        <![CDATA[• The file contains data related to the household survey questionnaire
+• The file contains derived data on household income, annualized and  aggregated by category of products and services.
+• Modified and Calculated variables are distinguished by:
+• The file was generated using a Stata program named “cons_aggregate.do” available in the external resources.]]>
+      </fileCont>
+      <dimensns>
+        <caseQnty>
+          0
+        </caseQnty>
+        <varQnty>
+          2
+        </varQnty>
+      </dimensns>
+      <fileType>
+        Nesstar 200801
+      </fileType>
+      <dataChck>
+        <![CDATA[missing check
+range check
+logic check
+structural check]]>
+      </dataChck>
+      <dataMsng>
+        <![CDATA[-8 missing
+-9 notapplicable]]>
+      </dataMsng>
+      <verStmt>
+        <version>
+          <![CDATA[The version description should contain a version number followed by a version label. We recommend that larger series be defined by a number to the left of a decimal and iterations of the same series by a sequential number that identifies the release. The larger series should be described as (0) cleaned dataset with identifiers for internal use by the MVP for IRB pre-authorized use only (i.e. quality assurance team: database managers, enumerators, data entry clerk, NY data team); (1) cleaned dataset, de-identified, for internal use by approved MVP researchers; and (2) cleaned dataset, de-identified, and prepared for external use by approved researchers.
+Examples:
+• v0.1:  Cleaned data with identifiers, first version.
+• v1.2:  Cleaned and de-identified data, second version, for internal use by approved MVP researchers.
+• v2.1: Cleaned and de-identified data, for external use by approved researchers.
+A brief description of the version should follow the numerical identification.]]>
+        </version>
+      </verStmt>
+    </fileTxt>
+  </fileDscr>
+  <fileDscr ID="F3" URI="Example_for_script.Nesstar?Index=2&amp;Name=c_yet another section">
+    <fileTxt>
+      <fileName>
+        c_yet another section.NSDstat
+      </fileName>
+      <fileCont>
+        <![CDATA[• The file contains data related to the household survey questionnaire
+• The file contains derived data on household income, annualized and  aggregated by category of products and services.
+• Modified and Calculated variables are distinguished by:
+• The file was generated using a Stata program named “cons_aggregate.do” available in the external resources.]]>
+      </fileCont>
+      <dimensns>
+        <caseQnty>
+          0
+        </caseQnty>
+        <varQnty>
+          4
+        </varQnty>
+      </dimensns>
+      <fileType>
+        Nesstar 200801
+      </fileType>
+      <dataChck>
+        <![CDATA[missing check
+range check
+logic check
+structural check]]>
+      </dataChck>
+      <dataMsng>
+        <![CDATA[-8 missing
+-9 notapplicable]]>
+      </dataMsng>
+      <verStmt>
+        <version>
+          <![CDATA[The version description should contain a version number followed by a version label. We recommend that larger series be defined by a number to the left of a decimal and iterations of the same series by a sequential number that identifies the release. The larger series should be described as (0) cleaned dataset with identifiers for internal use by the MVP for IRB pre-authorized use only (i.e. quality assurance team: database managers, enumerators, data entry clerk, NY data team); (1) cleaned dataset, de-identified, for internal use by approved MVP researchers; and (2) cleaned dataset, de-identified, and prepared for external use by approved researchers.
+Examples:
+• v0.1:  Cleaned data with identifiers, first version.
+• v1.2:  Cleaned and de-identified data, second version, for internal use by approved MVP researchers.
+• v2.1: Cleaned and de-identified data, for external use by approved researchers.
+A brief description of the version should follow the numerical identification.]]>
+        </version>
+      </verStmt>
+    </fileTxt>
+  </fileDscr>
+  <dataDscr>
+    <var ID="V2" name="q659" files="F1" intrvl="discrete">
+      <location width="1" RecSegNo="1"/>
+      <labl>
+        The last 6 questions asked about feelings that might have occurred during the past 30 days. Taking them altoghether, did these feelings occur more often in the past 30 days than is usual for you, about the same as usual, or less often than usual?
+      </labl>
+      <respUnit>
+        Males and females aged 15-49 years
+      </respUnit>
+      <qstn>
+        <qstnLit>
+          The last 6 questions asked about feelings that might have occurred during the past 30 days. Taking them altoghether, did these feelings occur more often in the past 30 days than is usual for you, about the same as usual, or less often than usual?
+        </qstnLit>
+        <ivuInstr>
+          If respondent never has any of these feelings, then circle option '4'
+        </ivuInstr>
+      </qstn>
+      <universe clusion="I">
+        Males and females aged 15-49 years from 300 randomly selected stratified households.
+      </universe>
+      <sumStat type="vald">
+        0
+      </sumStat>
+      <sumStat type="invd">
+        0
+      </sumStat>
+      <txt>
+        The last 6 questions asked about feelings that might have occurred during the past 30 days. Taking them altoghether, did these feelings occur more often in the past 30 days than is usual for you, about the same as usual, or less often than usual?
+      </txt>
+      <catgry>
+        <catValu>
+          1
+        </catValu>
+        <labl>
+          A lot more often than usual
+        </labl>
+        <txt>
+          A lot more often than usual
+        </txt>
+      </catgry>
+      <catgry>
+        <catValu>
+          2
+        </catValu>
+        <labl>
+          Some more often than usual
+        </labl>
+        <txt>
+          Some more often than usual
+        </txt>
+      </catgry>
+      <catgry>
+        <catValu>
+          3
+        </catValu>
+        <labl>
+          A little more often than usual
+        </labl>
+        <txt>
+          A little more often than usual
+        </txt>
+      </catgry>
+      <catgry>
+        <catValu>
+          4
+        </catValu>
+        <labl>
+          About the same as usual
+        </labl>
+        <txt>
+          About the same as usual
+        </txt>
+      </catgry>
+      <catgry>
+        <catValu>
+          5
+        </catValu>
+        <labl>
+          A little less often than usual
+        </labl>
+        <txt>
+          A little less often than usual
+        </txt>
+      </catgry>
+      <catgry>
+        <catValu>
+          6
+        </catValu>
+        <labl>
+          Some less often than usual
+        </labl>
+        <txt>
+          Some less often than usual
+        </txt>
+      </catgry>
+      <catgry>
+        <catValu>
+          7
+        </catValu>
+        <labl>
+          A lot less often than usual
+        </labl>
+        <txt>
+          A lot less often than usual
+        </txt>
+      </catgry>
+      <varFormat type="character" schema="other"/>
+    </var>
+    <var ID="V3" name="q660" files="F1" dcml="0" intrvl="discrete">
+      <location RecSegNo="1"/>
+      <labl>
+        During the past 30 days, how many days out of 30 were you totally unable to work or carry out your normal activities because of these feelings?
+      </labl>
+      <respUnit>
+        Males and females aged 15-49 years
+      </respUnit>
+      <qstn>
+        <qstnLit>
+          During the past 30 days, how many days out of 30 were you totally unable to work or carry out your normal activities because of these feelings?
+        </qstnLit>
+      </qstn>
+      <universe clusion="I">
+        Males and females aged 15-49 years from 300 randomly selected stratified households.
+      </universe>
+      <sumStat type="vald">
+        0
+      </sumStat>
+      <sumStat type="invd">
+        0
+      </sumStat>
+      <txt>
+        During the past 30 days, how many days out of 30 were you totally unable to work or carry out your normal activities because of these feelings?
+      </txt>
+      <codInstr>
+        Code 90 indicates 'don't know', and code 98 indicates 'refuse to answer'.
+      </codInstr>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V4" name="q660.A" files="F1" dcml="0" intrvl="discrete">
+      <location RecSegNo="1"/>
+      <labl>
+        Not counting the days you just reported, how many days in the past 30 days were you able to do only half or less of what you would normally have been able to do, because of these feelings?
+      </labl>
+      <respUnit>
+        Males and females aged 15-49 years
+      </respUnit>
+      <qstn>
+        <qstnLit>
+          Not counting the days you just reported, how many days in the past 30 days were you able to do only half or less of what you would normally have been able to do, because of these feelings?
+        </qstnLit>
+      </qstn>
+      <universe clusion="I">
+        Males and females aged 15-49 years from 300 randomly selected stratified households.
+      </universe>
+      <sumStat type="vald">
+        0
+      </sumStat>
+      <sumStat type="invd">
+        0
+      </sumStat>
+      <txt>
+        Not counting the days you just reported, how many days in the past 30 days were you able to do only half or less of what you would normally have been able to do, because of these feelings?
+      </txt>
+      <codInstr>
+        Code 90 indicates 'don't know', and code 98 indicates 'refuse to answer'.
+      </codInstr>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V5" name="q660.B" files="F1" dcml="0" intrvl="discrete">
+      <location RecSegNo="1"/>
+      <labl>
+        Duirng the past 30 days, how many times did you speak to a health provider (e.g. doctor, nurse, community health worker) about these feelings?
+      </labl>
+      <respUnit>
+        Males and females aged 15-49 years
+      </respUnit>
+      <qstn>
+        <qstnLit>
+          Duirng the past 30 days, how many times did you speak to a health provider (e.g. doctor, nurse, community health worker) about these feelings?
+        </qstnLit>
+      </qstn>
+      <universe clusion="I">
+        Males and females aged 15-49 years from 300 randomly selected stratified households.
+      </universe>
+      <sumStat type="vald">
+        0
+      </sumStat>
+      <sumStat type="invd">
+        0
+      </sumStat>
+      <txt>
+        Duirng the past 30 days, how many times did you speak to a health provider (e.g. doctor, nurse, community health worker) about these feelings?
+      </txt>
+      <codInstr>
+        Code 90 indicates 'don't know', and code 98 indicates 'refuse to answer'.
+      </codInstr>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V7" name="q671" files="F2" intrvl="discrete">
+      <location width="1" RecSegNo="1"/>
+      <labl>
+        What type of organization are you a leader or have an elected position in? … Anything else?
+      </labl>
+      <respUnit>
+        Males and females aged 15-49 years
+      </respUnit>
+      <qstn>
+        <qstnLit>
+          What type of organization are you a leader or have an elected position in? … Anything else?
+        </qstnLit>
+        <ivuInstr>
+          Circle all that apply. Check 669: make sure organizations in this question (671) are also listed in 669.
+        </ivuInstr>
+      </qstn>
+      <universe clusion="I">
+        Males and females aged 15-49 years from 300 randomly selected stratified households.
+      </universe>
+      <sumStat type="vald">
+        0
+      </sumStat>
+      <sumStat type="invd">
+        0
+      </sumStat>
+      <txt>
+        What type of organization are you a leader or have an elected position in? … Anything else?
+      </txt>
+      <catgry>
+        <catValu>
+          1
+        </catValu>
+        <labl>
+          Local government
+        </labl>
+        <txt>
+          Local government
+        </txt>
+      </catgry>
+      <catgry>
+        <catValu>
+          2
+        </catValu>
+        <labl>
+          CBO/ NGO
+        </labl>
+        <txt>
+          CBO/ NGO
+        </txt>
+      </catgry>
+      <catgry>
+        <catValu>
+          3
+        </catValu>
+        <labl>
+          Church/ prayer group or burial society
+        </labl>
+        <txt>
+          Church/ prayer group or burial society
+        </txt>
+      </catgry>
+      <catgry>
+        <catValu>
+          4
+        </catValu>
+        <labl>
+          Women's group
+        </labl>
+        <txt>
+          Women's group
+        </txt>
+      </catgry>
+      <catgry>
+        <catValu>
+          5
+        </catValu>
+        <labl>
+          Youth group
+        </labl>
+        <txt>
+          Youth group
+        </txt>
+      </catgry>
+      <catgry>
+        <catValu>
+          6
+        </catValu>
+        <labl>
+          Farmer's group
+        </labl>
+        <txt>
+          Farmer's group
+        </txt>
+      </catgry>
+      <catgry>
+        <catValu>
+          7
+        </catValu>
+        <labl>
+          Village committee (e.g. school, water, health)
+        </labl>
+        <txt>
+          Village committee (e.g. school, water, health)
+        </txt>
+      </catgry>
+      <catgry>
+        <catValu>
+          8
+        </catValu>
+        <labl>
+          Sports club
+        </labl>
+        <txt>
+          Sports club
+        </txt>
+      </catgry>
+      <catgry>
+        <catValu>
+          9
+        </catValu>
+        <labl>
+          Economic organization (savings, microfinance)
+        </labl>
+        <txt>
+          Economic organization (savings, microfinance)
+        </txt>
+      </catgry>
+      <catgry>
+        <catValu>
+          90
+        </catValu>
+        <labl>
+          Don't know
+        </labl>
+        <txt>
+          Don't know
+        </txt>
+      </catgry>
+      <catgry>
+        <catValu>
+          96
+        </catValu>
+        <labl>
+          Other (sepecify)
+        </labl>
+        <txt>
+          Other (specify)
+        </txt>
+      </catgry>
+      <codInstr>
+        Code 90 indicates 'don't know', and code 96 indicates 'other'.
+      </codInstr>
+      <varFormat type="character" schema="other"/>
+    </var>
+    <var ID="V8" name="q679" files="F2" intrvl="discrete">
+      <location width="8" RecSegNo="1"/>
+      <labl>
+        During the past 12 months, how often have you joined together with others in the village/ community to address a common issue, problem, or priority?
+      </labl>
+      <respUnit>
+        Males and females aged 15-49 years
+      </respUnit>
+      <qstn>
+        <qstnLit>
+          During the past 12 months, how often have you joined together with others in the village/ community to address a common issue, problem, or priority?
+        </qstnLit>
+      </qstn>
+      <universe clusion="I">
+        Males and females aged 15-49 years from 300 randomly selected stratified households.
+      </universe>
+      <sumStat type="vald">
+        0
+      </sumStat>
+      <sumStat type="invd">
+        0
+      </sumStat>
+      <txt>
+        During the past 12 months, how often have you joined together with others in the village/ community to address a common issue, problem, or priority?
+      </txt>
+      <catgry>
+        <catValu>
+          1
+        </catValu>
+        <labl>
+          Never
+        </labl>
+        <txt>
+          Never
+        </txt>
+      </catgry>
+      <catgry>
+        <catValu>
+          2
+        </catValu>
+        <labl>
+          Once
+        </labl>
+        <txt>
+          Once
+        </txt>
+      </catgry>
+      <catgry>
+        <catValu>
+          3
+        </catValu>
+        <labl>
+          A few times (2-4)
+        </labl>
+        <txt>
+          A few times (2-4)
+        </txt>
+      </catgry>
+      <catgry>
+        <catValu>
+          4
+        </catValu>
+        <labl>
+          Frequently/ often (5+)
+        </labl>
+        <txt>
+          Frequently/ often (5+)
+        </txt>
+      </catgry>
+      <catgry>
+        <catValu>
+          90
+        </catValu>
+        <labl>
+          Don't know
+        </labl>
+        <txt>
+          Don't know
+        </txt>
+      </catgry>
+      <codInstr>
+        Code 90 indicates 'don't know'.
+      </codInstr>
+      <varFormat type="character" schema="other"/>
+    </var>
+    <var ID="V9" name="q674.A" files="F3" dcml="0" intrvl="discrete">
+      <location RecSegNo="1"/>
+      <labl>
+        Imagine that your house has been completely destroyed by a fire or flood. In these questions we would like to know whether you feel you could go to certain people for help. If you need a little money to buy clothes for you and your family (about 1000 Naira) could you go to... family or relatives?
+      </labl>
+      <respUnit>
+        Males and females aged 15-49 years
+      </respUnit>
+      <qstn>
+        <qstnLit>
+          Imagine that your house has been completely destroyed by a fire or flood. In these questions we would like to know whether you feel you could go to certain people for help. If you need a little money to buy clothes for you and your family (about 1000 Naira) could you go to... family or relatives?
+        </qstnLit>
+      </qstn>
+      <universe clusion="I">
+        Males and females aged 15-49 years from 300 randomly selected stratified households.
+      </universe>
+      <sumStat type="vald">
+        0
+      </sumStat>
+      <sumStat type="invd">
+        0
+      </sumStat>
+      <txt>
+        Imagine that your house has been completely destroyed by a fire or flood. In these questions we would like to know whether you feel you could go to certain people for help. If you need a little money to buy clothes for you and your family (about 1000 Naira) could you go to... family or relatives?
+      </txt>
+      <catgry>
+        <catValu>
+          1
+        </catValu>
+        <labl>
+          Yes
+        </labl>
+        <txt>
+          Yes
+        </txt>
+      </catgry>
+      <catgry>
+        <catValu>
+          2
+        </catValu>
+        <labl>
+          No
+        </labl>
+        <txt>
+          No
+        </txt>
+      </catgry>
+      <catgry>
+        <catValu>
+          90
+        </catValu>
+        <labl>
+          Don't know
+        </labl>
+        <txt>
+          Don't know
+        </txt>
+      </catgry>
+      <codInstr>
+        Code 90 indicates 'don't know'.
+      </codInstr>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V10" name="q684" files="F3" intrvl="discrete">
+      <location width="8" RecSegNo="1"/>
+      <labl>
+        Neighbors often have similar problems (e.g. about raising children). How confident do you feel about offering advice to your neighbor?
+      </labl>
+      <respUnit>
+        Males and females aged 15-49 years
+      </respUnit>
+      <qstn>
+        <qstnLit>
+          Neighbors often have similar problems (e.g. about raising children). How confident do you feel about offering advice to your neighbor?
+        </qstnLit>
+      </qstn>
+      <universe clusion="I">
+        Males and females aged 15-49 years from 300 randomly selected stratified households.
+      </universe>
+      <sumStat type="vald">
+        0
+      </sumStat>
+      <sumStat type="invd">
+        0
+      </sumStat>
+      <txt>
+        Neighbors often have similar problems (e.g. about raising children). How confident do you feel about offering advice to your neighbor?
+      </txt>
+      <catgry>
+        <catValu>
+          1
+        </catValu>
+        <labl>
+          Very confident (often give advice)
+        </labl>
+        <txt>
+          Very confident (often give advice)
+        </txt>
+      </catgry>
+      <catgry>
+        <catValu>
+          2
+        </catValu>
+        <labl>
+          Moderately confident (rarely give advice)
+        </labl>
+        <txt>
+          Moderately confident (rarely give advice)
+        </txt>
+      </catgry>
+      <catgry>
+        <catValu>
+          3
+        </catValu>
+        <labl>
+          Not confident at all (never give advice)
+        </labl>
+        <txt>
+          Not confident at all (never give advice)
+        </txt>
+      </catgry>
+      <catgry>
+        <catValu>
+          90
+        </catValu>
+        <labl>
+          Don't know
+        </labl>
+        <txt>
+          Don't know
+        </txt>
+      </catgry>
+      <codInstr>
+        Code 90 indicates 'don't know'.
+      </codInstr>
+      <varFormat type="character" schema="other"/>
+    </var>
+    <var ID="V11" name="q686" files="F3" dcml="0" intrvl="discrete">
+      <location RecSegNo="1"/>
+      <labl>
+        Who usually makes decisions about health care for yourself: you, your husband/partner, you and your husband/partner jointly, or someone else?
+      </labl>
+      <respUnit>
+        Males and females aged 15-49 years
+      </respUnit>
+      <qstn>
+        <qstnLit>
+          Who usually makes decisions about health care for yourself: you, your husband/partner, you and your husband/partner jointly, or someone else?
+        </qstnLit>
+      </qstn>
+      <universe clusion="I">
+        Males and females aged 15-49 years from 300 randomly selected stratified households.
+      </universe>
+      <sumStat type="vald">
+        0
+      </sumStat>
+      <sumStat type="invd">
+        0
+      </sumStat>
+      <txt>
+        Who usually makes decisions about health care for yourself: you, your husband/partner, you and your husband/partner jointly, or someone else?
+      </txt>
+      <catgry>
+        <catValu>
+          1
+        </catValu>
+        <labl>
+          Respondent
+        </labl>
+        <txt>
+          Respondent
+        </txt>
+      </catgry>
+      <catgry>
+        <catValu>
+          2
+        </catValu>
+        <labl>
+          Husband/ partner
+        </labl>
+        <txt>
+          Husband/ partner
+        </txt>
+      </catgry>
+      <catgry>
+        <catValu>
+          3
+        </catValu>
+        <labl>
+          Respondent and husband/ partner jointly
+        </labl>
+        <txt>
+          Respondent and husband/ partner jointly
+        </txt>
+      </catgry>
+      <catgry>
+        <catValu>
+          4
+        </catValu>
+        <labl>
+          Someone else
+        </labl>
+        <txt>
+          Someone else
+        </txt>
+      </catgry>
+      <catgry>
+        <catValu>
+          96
+        </catValu>
+        <labl>
+          Other
+        </labl>
+        <txt>
+          Other
+        </txt>
+      </catgry>
+      <codInstr>
+        <![CDATA[Code 96  indicates 'other'.]]>
+      </codInstr>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V12" name="q587" files="F3" intrvl="discrete">
+      <location width="8" RecSegNo="1"/>
+      <labl>
+        Please tell me if [NAME] received any of the following vaccinations: BCG vaccination against tuberculosis, that is, an injection in the upper arm/ shoulder that usually causes a scar?
+      </labl>
+      <respUnit>
+        Female adult 15-49 years.
+      </respUnit>
+      <qstn>
+        <qstnLit>
+          Please tell me if [NAME] received any of the following vaccinations: BCG vaccination against tuberculosis, that is, an injection in the upper arm/ shoulder that usually causes a scar?
+        </qstnLit>
+      </qstn>
+      <universe clusion="I">
+        Information about the three last children born to females 15-49 years after 2004, and who are still alive.
+      </universe>
+      <sumStat type="vald">
+        0
+      </sumStat>
+      <sumStat type="invd">
+        0
+      </sumStat>
+      <txt>
+        Please tell me if [NAME] received any of the following vaccinations: BCG vaccination against tuberculosis, that is, an injection in the upper arm/ shoulder that usually causes a scar?
+      </txt>
+      <catgry>
+        <catValu>
+          1
+        </catValu>
+        <labl>
+          Yes
+        </labl>
+        <txt>
+          Yes
+        </txt>
+      </catgry>
+      <catgry>
+        <catValu>
+          2
+        </catValu>
+        <labl>
+          No
+        </labl>
+        <txt>
+          No
+        </txt>
+      </catgry>
+      <catgry>
+        <catValu>
+          90
+        </catValu>
+        <labl>
+          Don't know
+        </labl>
+        <txt>
+          Don't know
+        </txt>
+      </catgry>
+      <codInstr>
+        <![CDATA[Code 90  indicates 'Don't know'.]]>
+      </codInstr>
+      <varFormat type="character" schema="other"/>
+    </var>
+  </dataDscr>
+</codeBook>

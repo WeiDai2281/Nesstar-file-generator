@@ -1,12 +1,12 @@
 import xml.etree.ElementTree as ET
 import copy
 import pandas as pd
-import json, ast
+import numpy as np
 
 # configure the input format:
-excel_file_name = "Example data.xls"
+excel_file_name = "Example data.csv"
 template_file_name = "template.xml"
-output_name = "result.xml"
+output_name = "result_1.xml"
 
 # parse the xml
 ET.register_namespace('', "http://www.icpsr.umich.edu/DDI")
@@ -19,33 +19,31 @@ root.remove(fileDscr_template)
 var_template = root[2][0]
 root[2].remove(var_template)
 
-# open the excel file
-sheet_names = pd.ExcelFile(excel_file_name).sheet_names
 
-# define the function to transform one section data into dictionary
-
-
-def parse_excel(sheet):
-    data = pd.read_excel(excel_file_name, header=None, sheetname=sheet)
-    data.columns = ["1", "2"]
-    dic = data.set_index("1").to_dict()["2"]
-    dictionary = ast.literal_eval(json.dumps(dic))
-
-    return dictionary
+test = pd.read_csv(excel_file_name, encoding="utf-8")
+data = np.array(test)
 
 # define the function to create section
-def create_section(sheet, count):
+
+
+def create_section(section_name, count):
+    print "Creating one section..."
     stringa = "Example_for_script.Nesstar?Index=" + str(count)
-    stringb = "&amp;Name=" + sheet
+    stringb = "&amp;Name=" + section_name
     section = copy.deepcopy(fileDscr_template)
     id = "F" + str(count + 1)
     section.set("ID", id)
     section.set("URI", stringa + stringb)
-    return section, id
+    text = section_name + " name.NSDstat"
+    section[0][0].text = text
+    return section
+
 
 # define the function to create the variable
 
+
 def create_variable(name, text, section, count):
+    print "Creating one variable"
     var = copy.deepcopy(var_template)
     id = "V" + str(count)
     var.set("ID", id)
@@ -57,25 +55,25 @@ def create_variable(name, text, section, count):
 
     return var
 
+
 if __name__ == "__main__":
+    section_dic = {}
+    section_set = set(data[:, 2])
     count = -1
     var_count = 0
-    for sheet in sheet_names:
+    for i in section_set:
         count += 1
-        dic = parse_excel(sheet)
-        section, id = create_section(sheet, count)
+        section_dic[i] = "F" + str(count + 1)
+        section = create_section(i, count)
         root.insert(2, section)
-        for var_name in dic:
-            var_count += 1
-            newvar = create_variable(var_name, dic[var_name], id, var_count)
-            root[-1].append(newvar)
-
+    print len(section_set), "section have been created in total"
+    for i in range(data.shape[0]):
+        var_count += 1
+        newvar = create_variable(data[i][1], data[i][0], section_dic[data[i][2]], var_count)
+        root[-1].append(copy.deepcopy(newvar))
+    print data.shape[0], "variables have been created in total"
     xmlfile.write(output_name)
 
 
-
-#define the function to create the section
-# def create_section(sec_name):
-#     root
 
 
